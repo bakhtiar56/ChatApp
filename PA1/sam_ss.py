@@ -1,0 +1,5 @@
+file1=open("test.txt","r+")
+ print(file1.readlines())file1=open("test.txt","r+")
+ print(file1.readlines())file1=open("test.txt","r+")
+ print(file1.readlines())forward_file sam ss.py file1=open("test.txt","r+")
+ print(file1.readlines())
