@@ -4,3 +4,6 @@
 * More than one client can connect to the server and receive reponse at the same time.
 * Features include, sending a file, message.
 * For list of all possible user commands, type help
+
+*Run server.py for server 
+*Run client.py for client using syntax: python client.py -u username where username is any desired username of the client
